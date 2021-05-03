@@ -1,0 +1,5 @@
+There certain function I didn't finish yet such as
+1) Display Results based on semester
+
+and for the cgpa and gpa value, I don't know why the results come out with more than 2 decimal place,
+so I put 'round' function to make it prettier compare than before)
